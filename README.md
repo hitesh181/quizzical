@@ -1,7 +1,10 @@
 # Quiz App
 Made with React
-# LIVE DEMO
-### <code style="color : #0969DA">https://quizzical101.netlify.app/</code>
+
+### <code style="color : #0969DA"  style="color : #0969DA">
+  <a href = "https://quizzical101.netlify.app/">LIVE DEMO</a>
+  </code>
+
 # Functionalities
 ### Auto Check
 ### Fetching random data from Trivia API
