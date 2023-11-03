@@ -4,9 +4,9 @@ Made with React
 ### Deployment
  Netlify
 # Functionalities
-### Auto Check
-### Fetching random data from Trivia API
-### Using Components
-### Using state and effect
-### backend 
-- coming soon
+- Auto Check
+- Fetching random data from Trivia API
+- Using Components
+- Using state and effect
+
+## Steps to install locally
