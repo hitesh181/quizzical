@@ -9,4 +9,8 @@ Made with React
 - Using Components
 - Using state and effect
 
-## Steps to install locally
+### Steps to install locally
+- Fork the Repo
+- Clone the Repo
+  ```bash
+  git clone https://github.com/hitesh181/quizzical.git
