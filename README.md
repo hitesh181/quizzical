@@ -14,3 +14,10 @@ Made with React
 - Clone the Repo
   ```bash
   git clone https://github.com/hitesh181/quizzical.git
+- Navigate to the directory
+  ```bash
+  cd quizzical
+
+- Install necessary dependency and packages
+  ```bash
+   npm i
