@@ -21,3 +21,7 @@ Made with React
 - Install necessary dependency and packages
   ```bash
    npm i
+- Launch on local server with
+  ```bash
+  npm start
+  
