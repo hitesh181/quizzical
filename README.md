@@ -21,7 +21,8 @@ Made with React
 - Install necessary dependency and packages
   ```bash
    npm i
-- Launch on local server with
+- Launch on the local server with
   ```bash
   npm start
+- Redirect to http://localhost:3000
   
