@@ -5,7 +5,7 @@ Made with React
  Netlify
 
 # Prerequisite
- Node should be installed on system.
+ Node should be installed on the system.
 # Functionalities
 - Auto Check
 - Fetching random data from Trivia API
