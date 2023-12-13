@@ -4,7 +4,7 @@ Made with React
 ### Deployment
  Netlify
 
-# Prerequisite
+# Prerequisite 
  Node should be installed on the system.
 # Functionalities
 - Auto Check
